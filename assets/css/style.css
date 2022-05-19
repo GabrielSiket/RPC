@@ -8,3 +8,13 @@ body {
 .heading {
     text-align: center;
 }
+
+.game-area {
+    background-color: #C2F9FF;
+    width: 80%;
+    height: 65vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    text-align: center;
+}
