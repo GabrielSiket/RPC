@@ -11,10 +11,33 @@ body {
 
 .game-area {
     background-color: #C2F9FF;
-    width: 70%;
-    height:300px;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
-    padding: 1%;
+    padding: 2%;
     text-align: center;
+}
+
+/* Footer */
+
+.social-networks {
+    background-color: #C2F9FF;
+    border-top: solid #325082 1px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center; 
+}
+
+.social-networks > li {
+    display: inline;
+    font-weight: bold;
+}
+
+.social-networks i { 
+    color: #325082;
+    padding: 5px;
 }
