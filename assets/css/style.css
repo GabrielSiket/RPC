@@ -1,15 +1,16 @@
 body {
-    background-color: white;
+    background-color: whitesmoke;
     font-family: 'Macondo', cursive, sans-serif;
     color: #325082;
     text-align: center;
 }
 
-.heading {
-    text-align: center;
-}
+/*Game Area*/
 
 .game-area {
+    box-shadow: 10px 5px 5px #325082;
+    box-sizing: border-box;
+    border: solid  #325082 2px;
     background-color: #C2F9FF;
     width: 80%;
     margin-left: auto;
