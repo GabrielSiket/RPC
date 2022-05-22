@@ -19,6 +19,33 @@ body {
     text-align: center;
 }
 
+/*Buttons */
+
+button {
+    background-color: whitesmoke;
+    border-radius: 3px;
+    border: 1px solid #325082;
+    box-shadow: rgba(255, 255, 255, .7) 0 1px 0 0 inset;
+    box-sizing: border-box;
+    color: #325082;
+    padding: 8px .8em;
+}
+
+button:hover,
+button:focus {
+  background-color: #b3d3ea;
+  color: #325082;
+}
+
+
+
+button:active {
+  background-color: #325082;
+  box-shadow: none;
+  color: #b3d3ea;
+}
+
+
 /* Footer */
 
 .social-networks {
