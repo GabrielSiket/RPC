@@ -22,6 +22,8 @@ body {
 /*Buttons */
 
 button {
+    font-family: 'Macondo', cursive, sans-serif;
+    font-weight: bold;
     background-color: whitesmoke;
     border-radius: 3px;
     border: 1px solid #325082;
@@ -36,8 +38,6 @@ button:focus {
   background-color: #b3d3ea;
   color: #325082;
 }
-
-
 
 button:active {
   background-color: #325082;
