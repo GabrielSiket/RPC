@@ -1,5 +1,7 @@
 # Rock Paper Scissors Game
 
+![Am I Responsive](assets/images/rpc-responsive.png) 
+
 #### Rock Paper Scissors (also known by other orderings of the three items, with "rock" sometimes being called "stone", or as Rochambeau, roshambo, or ro-sham-bo)[1][2][3] is a hand game originating from China, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
 
 
@@ -24,14 +26,43 @@
 
     * If the user wins, the result will show "You win!".
 
-![win](assets/images/rps-win.png)
+    ![win](assets/images/rps-win.png)
 
     * If the computer wins, the result will show "You lost!"
 
-![lost](assets/images/rps-lost.png)
+    ![lost](assets/images/rps-lost.png)
     
     * In case of a draw, the result will show "It's a draw!"
 
+    ![draw]()
+
+* _Info Area_
+
+    * in the info area user will find information about the game, where it is originated from, how many players should play it and the rules of the game.
+
+    ![info](assets/images/rpc-info.png)
+
+* The Footer
+
+    * The footer is at the bottom of the page containing social media links. All links open in a new tab.
+
+    ![footer](assets/images/rpc-footer.png)
+
+## Testing
+
+* I tested playing this game on different browsers and devices - chrome, mozzila, mobile device.
+
+* I confirm that the game result are always correct.
+
+* I confirm that all text is readable and easy to understand, using easy to read fonts and colors and running it through 'lighthouse' in devtools.
+
+![lighthouse](assets/images/rpc-lighthouse.png)
+
+## Bugs
+
+* When manual tested the draw function of the game, noticed that the result showed 'undefined'.
+* When quickly pressed the button simultanously, game result is 'undefined'.
+* Solved both issues by changing the 'if - else' function to 'switch-case'.
 
 
     
