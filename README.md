@@ -66,7 +66,7 @@
 
     * No errors were return when passing through the official (Jigsaw) validator
 
-    ![jigsaw validator]()
+    ![jigsaw validator](assets/images/rps-css-validator.png)
 
 ## Bugs
 

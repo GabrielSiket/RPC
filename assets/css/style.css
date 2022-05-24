@@ -16,6 +16,11 @@ body {
     font-size: 2em;
 }
 
+.logo {
+    width: 50%;
+    height: 50%;
+}
+
 /*Buttons */
 
 button {
