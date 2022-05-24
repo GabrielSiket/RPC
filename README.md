@@ -62,7 +62,7 @@
 * HTML
     * No errors were return when passing through the official W3C validator
 
-    ![html validator]()
+    ![html validator](assets/images/rps-html-validator.png)
 
     * No errors were return when passing through the official (Jigsaw) validator
 
