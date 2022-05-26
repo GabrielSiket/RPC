@@ -8,6 +8,8 @@
 
 ## Features
 
+### Existing Features
+
 * _Header_
 
     * Featured at the top of the page, the header shows the game name: Rock, Paper, Scissors along with the three shapes formed by outstretched hand.
@@ -38,6 +40,7 @@
 * _Info Area_
 
     * in the info area user will find information about the game, where it is originated from, how many players should play it and the rules of the game.
+    * Also there is a warning to let the user know that clicking any of the buttons will produce a sound.
 
     ![info](assets/images/rps-info.png)
 
@@ -46,6 +49,9 @@
     * The footer is at the bottom of the page containing social media links. All links open in a new tab.
 
     ![footer](assets/images/rps-footer.png)
+
+### Features to implement
+*  Add the lizard, wizard and spock
 
 ## Testing
 
@@ -87,14 +93,14 @@ The live link can be found here - https://gabrielsiket.github.io/Rock-Paper-Scis
 
 * Content
 
-    * The text for the Info was taken from https://en.wikipedia.org/wiki/Rock_paper_scissors
-    * Instructions on how to implement JavaScrips were taken from https://github.com/kubowania
-    * The icons in the footer were taken from Font Awesome
+    * The text for the Info was taken from [wikipedia](https://en.wikipedia.org/wiki/Rock_paper_scissors)
+    * Instructions on how to implement JavaScrips were taken from [kubowania](https://github.com/kubowania) and [sololearn](https://www.sololearn.com/)
+    * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 * Media
 
-    * Sounds were taken from https://pixabay.com/ro/
-    * Logo image was taken from https://www.pngkey.com/
+    * Sounds were taken from [pixabay](https://pixabay.com/ro/)
+    * Logo image was taken from [pngkey](https://www.pngkey.com/)
 
 
     
