@@ -5,8 +5,6 @@ var win = new Audio("assets/sounds/mixkit-males-yes-victory-2012.wav");
 var lose = new Audio("assets/sounds/mixkit-arcade-retro-game-over-213.wav");
 var draw = new Audio("assets/sounds/bass-dropmp3-14596.mp3");
 
-
-
 const handleClick = (e) => {
   getResults(e.target.innerHTML, choices[Math.floor(Math.random() * choices.length)]);
 };
